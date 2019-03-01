@@ -1,0 +1,17 @@
+E:\ForArunVenkat\CISample\CIService.WebApi\bin\Release\netcoreapp2.1\CIService.WebApi.deps.json
+E:\ForArunVenkat\CISample\CIService.WebApi\bin\Release\netcoreapp2.1\CIService.WebApi.runtimeconfig.json
+E:\ForArunVenkat\CISample\CIService.WebApi\bin\Release\netcoreapp2.1\CIService.WebApi.runtimeconfig.dev.json
+E:\ForArunVenkat\CISample\CIService.WebApi\bin\Release\netcoreapp2.1\CIService.WebApi.dll
+E:\ForArunVenkat\CISample\CIService.WebApi\bin\Release\netcoreapp2.1\CIService.WebApi.pdb
+E:\ForArunVenkat\CISample\CIService.WebApi\bin\Release\netcoreapp2.1\CIService.dll
+E:\ForArunVenkat\CISample\CIService.WebApi\bin\Release\netcoreapp2.1\CIService.pdb
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.csprojAssemblyReference.cache
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.csproj.CoreCompileInputs.cache
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.RazorAssemblyInfo.cache
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.RazorAssemblyInfo.cs
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.AssemblyInfoInputs.cache
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.AssemblyInfo.cs
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.RazorTargetAssemblyInfo.cache
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.csproj.CopyComplete
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.dll
+E:\ForArunVenkat\CISample\CIService.WebApi\obj\Release\netcoreapp2.1\CIService.WebApi.pdb

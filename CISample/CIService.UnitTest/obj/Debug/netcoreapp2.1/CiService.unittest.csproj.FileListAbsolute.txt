@@ -1,0 +1,17 @@
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\CiService.unittest.deps.json
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\CiService.unittest.runtimeconfig.json
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\CiService.unittest.runtimeconfig.dev.json
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\CiService.unittest.dll
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\CiService.unittest.pdb
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\ciservice.dll
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\bin\Debug\netcoreapp2.1\ciservice.pdb
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\obj\Debug\netcoreapp2.1\CiService.unittest.csprojAssemblyReference.cache
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\obj\Debug\netcoreapp2.1\CiService.unittest.csproj.CoreCompileInputs.cache
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\obj\Debug\netcoreapp2.1\CiService.unittest.AssemblyInfoInputs.cache
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\obj\Debug\netcoreapp2.1\CiService.unittest.AssemblyInfo.cs
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\obj\Debug\netcoreapp2.1\CiService.unittest.csproj.CopyComplete
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\obj\Debug\netcoreapp2.1\CiService.unittest.dll
+E:\AnandThanumalayan\src\CISample\ciservice.unittest\obj\Debug\netcoreapp2.1\CiService.unittest.pdb

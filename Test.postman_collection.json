@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "f8661750-7db4-4f37-a6f9-c36871f91877",
+		"name": "Test",
+		"description": "Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "TestGreetingRequest",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/greeting/arun",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"greeting",
+						"arun"
+					]
+				},
+				"description": "TestGreetingRequest"
+			},
+			"response": []
+		}
+	]
+}

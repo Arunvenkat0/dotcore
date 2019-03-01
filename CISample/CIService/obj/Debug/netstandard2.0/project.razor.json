@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\AnandThanumalayan\\SharedFolder\\ForArunVenkat\\CISample\\CIService\\CIService.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
